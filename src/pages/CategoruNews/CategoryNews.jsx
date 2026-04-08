@@ -23,7 +23,7 @@ const CategoryNews = () => {
         }
     }, [id, newsData])
 
-    console.log(news)
+    
     return (
         <div>
             {
